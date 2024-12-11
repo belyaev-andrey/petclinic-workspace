@@ -7,6 +7,9 @@
     <project name="petclinic" path="$PROJECT_DIR$/../spring-petclinic-data-jdbc">
       <vcs id="Git" remoteUrl="https://github.com/belyaev-andrey/spring-petclinic-data-jdbc.git" />
     </project>
+    <project name="spring-petclinic-microservices" path="$PROJECT_DIR$/../spring-petclinic-microservices">
+      <vcs id="Git" remoteUrl="https://github.com/spring-petclinic/spring-petclinic-microservices.git" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
