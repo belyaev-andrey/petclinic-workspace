@@ -10,6 +10,9 @@
     <project name="spring-petclinic-microservices" path="$PROJECT_DIR$/../spring-petclinic-microservices">
       <vcs id="Git" remoteUrl="https://github.com/spring-petclinic/spring-petclinic-microservices.git" />
     </project>
+    <project name="multi-ds" path="$PROJECT_DIR$/../../Test/multi-ds">
+      <vcs id="Git" remoteUrl="https://github.com/belyaev-andrey/multi-ds" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
