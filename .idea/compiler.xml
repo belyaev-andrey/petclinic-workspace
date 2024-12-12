@@ -14,6 +14,7 @@
         <module name="spring-petclinic-api-gateway" />
         <module name="spring-petclinic-data-jdbc" />
         <module name="spring-petclinic-admin-server" />
+        <module name="demo-2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,10 +24,12 @@
       <module name="ktor-sample" target="23" />
       <module name="ktor-sample.main" target="23" />
       <module name="ktor-sample.test" target="23" />
+      <module name="test-maven-untitled" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo-2" options="-parameters" />
       <module name="spring-petclinic-admin-server" options="-parameters" />
       <module name="spring-petclinic-api-gateway" options="-parameters" />
       <module name="spring-petclinic-config-server" options="-parameters" />

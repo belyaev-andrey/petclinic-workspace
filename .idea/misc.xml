@@ -12,6 +12,7 @@
       <list>
         <option value="$PROJECT_DIR$/../spring-petclinic-data-jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/../spring-petclinic-microservices/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Test/demo-2/pom.xml" />
       </list>
     </option>
   </component>

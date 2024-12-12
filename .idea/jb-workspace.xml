@@ -13,6 +13,9 @@
     <project name="multi-ds" path="$PROJECT_DIR$/../../Test/multi-ds">
       <vcs id="Git" remoteUrl="https://github.com/belyaev-andrey/multi-ds" />
     </project>
+    <project name="demo-2" path="$PROJECT_DIR$/../../Test/demo-2">
+      <vcs id="Git" remoteUrl="https://github.com/belyaev-andrey/demo-2" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
